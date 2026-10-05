@@ -1,4 +1,4 @@
-prepartion:
+preparation:
   test_size: 0.25        # part des donnees reservee a l'evaluation 
   random_state: 42       # graine du decoupage 
 entrainement: 
